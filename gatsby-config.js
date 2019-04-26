@@ -1,11 +1,11 @@
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Starter Blog`,
-    author: `Kyle Mathews`,
-    description: `A starter blog demonstrating what Gatsby can do.`,
+    title: `Pander To Me!`,
+    author: `PinballWizzrobe`,
+    description: `A personal blog about movies, TV, games and more, and finding the art in a corporate world.`,
     siteUrl: `https://gatsby-starter-blog-demo.netlify.com/`,
     social: {
-      twitter: `kylemathews`,
+      twitter: `pinballwizzrobe`,
     },
   },
   plugins: [
